@@ -1,5 +1,10 @@
 # Write your solution here
-if second = even 
+
+current_time = Time.now 
+current_time.to_s 
+current_time.to_i 
+
+if current_time.tp_i = even 
   puts "Even!"
 else 
   puts "Odd!"
